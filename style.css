@@ -461,7 +461,7 @@ footer p{
 
 
 body {
-    background: url('./assets/bg5.png') no-repeat center center fixed;
+    background: url('./assets/bg5.png') /*no-repeat center center fixed;*/
     background-size: contain; /* Ensures the full image is visible */
     background-position: center;
     background-repeat: no-repeat;
